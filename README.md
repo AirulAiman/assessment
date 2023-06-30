@@ -1,12 +1,19 @@
 i am developing a Login And Register that i used old with updated packages 
 
-what i used:
- "bulma": "^0.9.4",
+what i used 
+
+    bulma as my css
+    
     "moment": "^2.29.4",
+    
     "react": "^17.0.2",
+    
     "react-dom": "^17.0.2",
+    
     "react-router-dom": "^6.14.0",
+    
     "react-scripts": "^5.0.1",
+    
     "web-vitals": "^1.1.2"
 
     this is how the login page and register page looks like
@@ -26,4 +33,6 @@ this is only a log system and can create log and view , add and update
 ![image](https://github.com/AirulAiman/assessment/assets/136466706/c37e5820-e546-4f4e-b95c-e931150f9d6d)
 
 with the help of Google serching and youtube as my reference 
+
+everything is provided in requirements.txt
 
